@@ -1,0 +1,28 @@
+h1 {
+    border: solid black;
+    width: 164px;
+    height: 62px;
+    box-sizing: border-box;
+    margin-left: 392px;
+    border-style: solid;
+}
+
+input#todoinput {
+    margin-left: 366px;
+    margin-top: 33px;
+}
+ol#todolist {
+    
+    border: 1px  black;
+    margin-left: 350px;
+    width: 195px;
+    box-sizing: border-box;
+    border-style: solid;
+    
+    
+}
+body{
+    background-color: bisque;
+    
+}
+
